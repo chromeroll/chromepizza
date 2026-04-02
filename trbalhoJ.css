@@ -1,0 +1,22 @@
+body{
+    background-color: orange;
+}
+
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 230, 0);
+    text-shadow: black 2px 2px 0px;
+}
+
+#chrome{
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-size: 400%;
+    color: red;
+    text-shadow: white 0px 5px 0px;
+    text-size-adjust: none;  
+}
